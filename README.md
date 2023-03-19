@@ -5,7 +5,7 @@ A collection of papers on object-centric learning methods
 
 | Title | Acronym | Conference | Dataset| Code | LinktoPaper             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
-| Bridging the Gap to Real-World Object-Centric Learning | DINOSAUR | ICLR2023 | COCO/PascalVOC/MOVi | - | [jittor]() | [paper](https://arxiv.org/abs/2209.14860) |
+| Bridging the Gap to Real-World Object-Centric Learning | DINOSAUR | ICLR2023 | COCO/PascalVOC/MOVi | - | [paper](https://arxiv.org/abs/2209.14860) |
 
 ## 2022
 [To be Updated]
